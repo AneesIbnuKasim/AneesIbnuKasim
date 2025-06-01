@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anees Mangalodan</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
 
-  <img src="https://i.pinimg.com/originals/2c/41/f9/2c41f9b5411045e59ef08bbe5045773e.gif" width="400" alt="Img" />
+  <p align="center">
+    <img width="500" height="400" src="https://i.pinimg.com/originals/2c/41/f9/2c41f9b5411045e59ef08bbe5045773e.gif" width="400" alt="Img" />
+  </p>
 
 
 - 💬 Ask me about **Anything especially MERN related**
